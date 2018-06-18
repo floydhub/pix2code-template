@@ -1,0 +1,5 @@
+env: tensorflow-1.7
+machine: cpu
+data:
+  - source: floydhub/datasets/pix2code/1
+    destination: pix2code
